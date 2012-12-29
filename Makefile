@@ -1,4 +1,6 @@
-all: echo "make all"
-install: echo "make install"
+all: 
+    echo "make all"
+install: 
+    echo "make install"
 
 
