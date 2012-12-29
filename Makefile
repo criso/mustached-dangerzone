@@ -1,6 +1,6 @@
 all: 
-    echo "make all"
+	echo "make all"
 install: 
-    echo "make install"
+	echo "make install"
 
 
